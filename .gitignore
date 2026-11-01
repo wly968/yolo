@@ -1,0 +1,15 @@
+# 忽略数据集和权重
+datasets/
+checkpoint/
+saves/
+*.pth
+
+# 忽略Python缓存和编辑器文件
+__pycache__/
+*.py[cod]
+.vscode/
+.ipynb_checkpoints/
+
+# 忽略系统文件
+.DS_Store
+Thumbs.db
